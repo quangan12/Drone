@@ -1,0 +1,10 @@
+12:01:10 **** Incremental Build of configuration Debug for project DA_F4_ide ****
+make -j8 all 
+arm-none-eabi-size  DA_F4_ide.elf 
+   text	   data	    bss	    dec	    hex	filename
+  47008	    208	   4264	  51480	   c918	DA_F4_ide.elf
+Finished building: default.size.stdout
+ 
+
+12:01:10 Build Finished. 0 errors, 0 warnings. (took 302ms)
+
